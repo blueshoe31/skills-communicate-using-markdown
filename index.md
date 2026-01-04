@@ -7,3 +7,9 @@ let's see.
 ###### and an h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### and a code example
+
+``` javascript
+var myVar = "Hello, world!";
+```
