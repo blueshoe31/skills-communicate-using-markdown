@@ -13,3 +13,8 @@ let's see.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+### and checkboxes
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
